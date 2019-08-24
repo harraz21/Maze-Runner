@@ -15,3 +15,11 @@ in game background music by:"Bogart VGM"(opengameart.org)
 name: Dubious Dungeon .
 
 in game sound effects it was a project made by "DragonDePlatino"'s tileset by : "Ninja Happy Squid"(opengameart.org).
+
+# Screenshots
+
+![](screenshots/menu.PNG)
+
+![](screenshots/loadingMenu.PNG)
+
+![](screenshots/Game.PNG)
