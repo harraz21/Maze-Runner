@@ -18,8 +18,8 @@ in game sound effects it was a project made by "DragonDePlatino"'s tileset by : 
 
 # Screenshots
 
-![](screenshots/menu.PNG)
+![](https://github.com/harraz21/Maze-Runner/blob/master/screenShots/menu.PNG)
 
-![](screenshots/loadingMenu.PNG)
+![](https://github.com/harraz21/Maze-Runner/blob/master/screenShots/Game.PNG)
 
-![](screenshots/Game.PNG)
+![](https://github.com/harraz21/Maze-Runner/blob/master/screenShots/loadingMenu.PNG)
