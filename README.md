@@ -6,13 +6,12 @@ JavaFx library was used in developing this game
 # I TAKE NO CREDITS FOR THE ART CONTENT
 
 game art(tileset&sprites) by:"DragonDePlatino" (opengameart.org)
-"DawnBringer" name of the tileset:DawnLike found here.
+"DawnBringer" name of the tileset:DawnLike .
 
 main menu music by:"Trevor Lentz"(opengameart.org)
-name :Do not run found here.
+name :Do not run .
 
 in game background music by:"Bogart VGM"(opengameart.org)
-name: Dubious Dungeon found here.
+name: Dubious Dungeon .
 
-in game sound effects here
-it was a project made by "DragonDePlatino"'s tileset by : "Ninja Happy Squid"(opengameart.org).
+in game sound effects it was a project made by "DragonDePlatino"'s tileset by : "Ninja Happy Squid"(opengameart.org).
